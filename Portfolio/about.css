@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+    .nav {
+        /* display: flex; */
+        align-items: center !important;
+        /* width: auto; */
+    }
+
+}
